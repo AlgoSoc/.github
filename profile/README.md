@@ -1,4 +1,6 @@
-![AlgoSoc Logo](AlgoSoc.png)
+<p align="center">
+  <img src="AlgoSoc.png" alt="AlgoSoc Logo" width="400"/>
+</p>
 
 # AlgoSoc
 Welcome to **AlgoSoc**, the Algorithms and Programming Society at the University of Birmingham!
